@@ -34,7 +34,8 @@ SOURCES += \
         mainwindow.cpp \
     movie.cpp \
     randommoviegenerator.cpp \
-    wishlist.cpp
+    wishlist.cpp \
+    dbmanager.cpp
 
 HEADERS += \
         mainwindow.h \
